@@ -1,7 +1,7 @@
 
 spring:
     application:
-        name: "DEFAULT-CONFIG"
+        name: default-config
 # register with eureka as client
 eureka:
     instance:
